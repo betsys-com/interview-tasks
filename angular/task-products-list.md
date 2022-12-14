@@ -9,7 +9,6 @@ Your code should be validated by writing the unit tests. You can use any of the 
 
 ### Requirements
 
-- **Duration**: max. 2 days
 - **Technology stack**: Angular, NgRx, RxJS, TypeScript, HTML, SCSS/CSS
 - **Tests required**: Unit tests (any framework)
 - **Design**: You can use any design you want.

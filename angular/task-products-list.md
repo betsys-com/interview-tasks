@@ -7,7 +7,23 @@ Your code should be validated by writing the unit tests. You can use any of the 
 
 *Image above is only an example of how the list can look like* 
 
-### Details
+### Requirements
+
+- **Duration**: max. 2 days
+- **Technology stack**: Angular, NgRx, RxJS, TypeScript, HTML, SCSS/CSS
+- **Tests required**: Unit tests (any framework)
+- **Design**: You can use any design you want.
+- **Other**: Use any libraries you need for styling, working with HTML, etc.
+- **Standards**: Follow the best practices and standards you know.
+- **Git**: Use Git to track your changes. You can use any Git hosting service you want. Try to commit often and use meaningful commit messages.
+- **Want to feel like working in Betsys?**: 
+  - Use [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/) to track your changes
+  - Use [Jest](https://jestjs.io/) as a testing framework
+  - Use [SASS with SCSS syntax](https://sass-lang.com/) as a CSS preprocessor
+
+:warning: You need to use **[NgRx Store](https://ngrx.io/guide/store)** for state management. Feel free to also use any other libraries from ngrx (e.g. effects)
+
+### Task description
 
 - listing should display the image, name, quantity and the price of each product
   - image has no standard size, so you should use tricks to make it look good anyway
@@ -47,4 +63,3 @@ Don't worry about the removal of the products, it can be done locally.
   }
 ]
 ```
-

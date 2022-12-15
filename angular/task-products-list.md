@@ -11,14 +11,15 @@ Your code should be validated by writing the unit tests. You can use any of the 
 
 - **Technology stack**: Angular, NgRx, RxJS, TypeScript, HTML, SCSS/CSS
 - **Tests required**: Unit tests (any framework)
-- **Design**: You can use any design you want.
-- **Other**: Use any libraries you need for styling, working with HTML, etc.
+- **Design**: If you want, you can use any design, design framework or CSS library.
+- **Other**: Use any libraries you think are required.
 - **Standards**: Follow the best practices and standards you know.
 - **Git**: Use Git to track your changes. You can use any Git hosting service you want. Try to commit often and use meaningful commit messages.
 - **Want to feel like working in Betsys?**: 
   - Use [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/) to track your changes
   - Use [Jest](https://jestjs.io/) as a testing framework
   - Use [SASS with SCSS syntax](https://sass-lang.com/) as a CSS preprocessor
+  - Use [Betsys Coding Standards](https://github.com/betsys-com/betsys-eslint) for ESLint
 
 :warning: You need to use **[NgRx Store](https://ngrx.io/guide/store)** for state management. Feel free to also use any other libraries from ngrx (e.g. effects)
 

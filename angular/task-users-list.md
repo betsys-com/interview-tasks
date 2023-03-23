@@ -1,6 +1,6 @@
 # Users List
 
-Your goal is to create a list of products using the latest versions of Angular and NgRx.
+Your goal is to create a table with users using the latest versions of Angular and NgRx.
 Your code should be validated by writing the unit tests. You can use any of the testing frameworks.
 
 <img src="../assets/angular-task-users-list.png" alt="Angular task - Users list">

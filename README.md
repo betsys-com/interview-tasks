@@ -10,3 +10,4 @@ that a task is missing some specifications.
 
 - Angular
   - [Task 1 - Products List](angular/task-products-list.md)
+  - [Task 2 - Users List](angular/task-products-list.md)

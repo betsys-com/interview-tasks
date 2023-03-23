@@ -26,7 +26,7 @@ Your code should be validated by writing the unit tests. You can use any of the 
   - load users by dispatching action from component
   - store users into `UsersState`
   - use selector to get users from store
-  - for users table crete component which receives users as `@Input` and shows them as a table with 2 columns like on design (design of table can be found in `/todo/visual.png`)
+  - for users table crete component which receives users as `@Input` and shows them as a table with 2 columns like on design)
 
 
 ### Testing
